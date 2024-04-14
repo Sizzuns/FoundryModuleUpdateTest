@@ -105,7 +105,7 @@
       "allowBugReporter": true
     },
     "url": "https://gitlab.com/tposney/midi-qol",
-    "manifest": "https://gitlab.com/tposney/midi-qol/raw/v10/package/module.json",
+    "manifest": "https://github.com/Sizzuns/test/blob/main/module.json",
     "download": "https://gitlab.com/tposney/midi-qol/raw/v10/package/midi-qol-v10.0.61.zip",
     "changelog": "https://gitlab.com/tposney/midi-qol/raw/v10/Changelog.md"
   }
